@@ -78,4 +78,4 @@ The projects in this repository are created using the following technologies:
 To use or modify the projects:
 ```bash
 git clone https://github.com/graham218/static.git
-cd static-website-projects
+cd static
