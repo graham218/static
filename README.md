@@ -77,5 +77,5 @@ The projects in this repository are created using the following technologies:
 ### Clone the Repository
 To use or modify the projects:
 ```bash
-git clone https://github.com/your-username/static-website-projects.git
+git clone https://github.com/graham218/static.git
 cd static-website-projects
