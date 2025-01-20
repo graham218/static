@@ -61,7 +61,7 @@ The projects in this repository are created using the following technologies:
 ### Project 2: Business Landing Page
 - **Description**: A modern and visually appealing landing page for small businesses.
 - **Features**: Hero section, services section, client testimonials.
-- **Live Demo**: [View Business Landing Page](#)
+- **Live Demo**: [https://graham218.github.io/static/thepeacemakersorg_profile/]
 
 ---
 
